@@ -4,12 +4,12 @@ using System.Collections.Generic;
 namespace _9._30
 //n皇后问题
 {
-    public class Solution1
+    public class SquareFlowerNum
     {
         static void Main()
         {
 
-            var a = new Solution1();
+            var a = new SquareFlowerNum();
             var result = a.JudgeSquareSum(2147482647);
             Console.WriteLine(result);
         }
