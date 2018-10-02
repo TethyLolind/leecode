@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\bin\Debug\leecode9.27.exe.config
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\bin\Debug\leecode9.27.exe
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\bin\Debug\leecode9.27.pdb
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\obj\Debug\leecode9.27.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\obj\Debug\leecode9.27.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\obj\Debug\leecode9.27.exe
+C:\Users\Administrator\source\repos\leecode9.27\leecode9.27\obj\Debug\leecode9.27.pdb
